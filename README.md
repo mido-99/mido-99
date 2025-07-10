@@ -39,25 +39,44 @@
 
 <div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+  
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
+  
+  <a href="https://pandas.pydata.org/" title="Pandas">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
+  
+  <a href="https://numpy.org/" title="NumPy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" />
+  
+  <a href="https://www.selenium.dev/" title="Selenium">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50" alt="Selenium"/></a>
   <img width="12" />
- 
-  <img src="https://avatars.githubusercontent.com/u/733635?s=48&v=4" width="50" alt="Scrapy" />
+  
+  <a href="https://scrapy.org/" title="Scrapy">
+    <img src="https://avatars.githubusercontent.com/u/733635?s=48&v=4" width="50" alt="Scrapy"/></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" />
+
+  <a href="https://www.crummy.com/software/BeautifulSoup/" title="Beautiful Soup">
+    <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" width="50" alt="Beautiful Soup"/></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" />
+  
+  <a href="https://playwright.dev/python/" title="Playwright">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="50" alt="Playwright"/></a>
   <img width="12" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" />
+
+  <a href="https://www.streamlit.io/" title="Streamlit">
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" alt="Streamlit"/></a>
+  <img width="12" />
+
+  <a href="https://cloud.google.com/" title="Scrapy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" alt="Scrapy"/></a>
   <img width="12" />
 
 </div>
