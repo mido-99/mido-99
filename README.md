@@ -47,6 +47,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/></a>
   <img width="12" />
   
+  <a href="https://supabase.com/" title="Supabase">
+    <img src="https://raw.githubusercontent.com/mido-99/mido-99/refs/heads/main/media/supabase-logo-icon.png" width="50" alt="PostgreSQL"/></a>
+  <img width="12" />
+  
   <a href="https://pandas.pydata.org/" title="Pandas">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/></a>
   <img width="12" />
@@ -100,6 +104,10 @@
     <img src="https://images.apifyusercontent.com/yzFbWx9lQ-KYi-2rS5xOH0cKru6wpinMHSud2pfctyw/rs:fill:250:250/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vQ2tyb0pBeTl6WEIyMW1qUFgtYWN0b3Itellzc1ZjdjBMN2g2VDR6cGItSEh2N1BmVGxUcS1EQUxMX0VfMjAyNS0wMy0yM18xNy4zMi4zMF8tX0Ffc2ltcGxlX3lldF9hdHRyYWN0aXZlX2xvZ29fZm9yX19Z.webp" width="100" alt="YCombinator Scraper"/></a>
   <img width="12" />
 
+  <a href="https://apify.com/mido_99/Instgram-Scraper-All-in-One" >
+    <img src="https://images.apifyusercontent.com/jtBRm-hTLBMD3rT0r0Dc3qCwcBIfUFNq4B0UeLZAYSs/rs:fill:250:250/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vQ2tyb0pBeTl6WEIyMW1qUFgtYWN0b3ItaU1qVFllZXNiRk8xWWFWWVotZjNaUVpNS3FxbS1taWRvX01ha2VfYV9zcXVhcmVkX2ljb25faW1hZ2VfZm9yX2FuX0FwaWZ5X2FjdG9yX19JbnN0YWdyYW0tU2Ny.webp" width="100" alt="YCombinator Scraper"/></a>
+  <img width="12" />
+
 
 </div>
 
@@ -111,22 +119,22 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-hany-a6a734253/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="40" alt="linkedin logo"  
       /></a>
   <img width="5" />
 
   <a href="https://discordapp.com/users/752326203959935007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="40" alt="discord logo"  
       /></a>
   <img width="5" />
 
   <a href="mailto:miohany910@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="40" alt="gmail logo"  
       /></a>
   <img width="5" />
 
   <a href="https://www.upwork.com/freelancers/~01cc419fb93065ffd6?mp_source=share" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-upwork-icon-download-in-svg-png-gif-file-formats--technology-logo-social-media-company-brand-vol-7-pack-logos-icons-3030271.png?f=webp&w=512" width="52" height="40" alt="Upwork logo"  
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-upwork-icon-download-in-svg-png-gif-file-formats--technology-logo-social-media-company-brand-vol-7-pack-logos-icons-3030271.png?f=webp&w=512" width="42" height="40" alt="Upwork logo"  
       /></a>
   <img width="5" />
 
