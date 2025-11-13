@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2022<br>💻 Searching for jobs remotely<br>📚 I'm currently learning Data analysis, AI & Advanced LM integration.<br>🎯 Goals: Just building a - simple - LLM feeding of all data on Earth.<br>🎲 Fun fact: Originally a doctor (medical graduate💉:) but now data is my passion 💖</p>
+<p align="left">✨ Coding since 2022<br>💻 Searching for jobs remotely<br>📚 I'm currently learning Data analysis, AI & Advanced LM integration.<br>🎯 Goals: Just to build a (simple) LLM feeding on all data on Earth.<br>🎲 Fun fact: Originally a doctor (medical graduate💉:) but now data is my passion 💖</p>
 
 ###
 
