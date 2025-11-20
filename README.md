@@ -112,6 +112,14 @@
     <img src="https://images.apifyusercontent.com/jtBRm-hTLBMD3rT0r0Dc3qCwcBIfUFNq4B0UeLZAYSs/rs:fill:250:250/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vQ2tyb0pBeTl6WEIyMW1qUFgtYWN0b3ItaU1qVFllZXNiRk8xWWFWWVotZjNaUVpNS3FxbS1taWRvX01ha2VfYV9zcXVhcmVkX2ljb25faW1hZ2VfZm9yX2FuX0FwaWZ5X2FjdG9yX19JbnN0YWdyYW0tU2Ny.webp" width="100" alt="YCombinator Scraper"/></a>
   <img width="12" />
 
+  <a href="https://github.com/mido-99/Apify-Instagram-Competitor-Analyzer/tree/main/" >
+    <img src="https://raw.githubusercontent.com/mido-99/Apify-Instagram-Competitor-Analyzer/refs/heads/main/media/Logo.png" width="100" alt="Instagram Competitor AI Analyzer"/></a>
+  <img width="12" />
+
+  <a href="https://mido-99-home-finder.hf.space/" >
+    <img src="https://i.ibb.co/CpH24bm1/Gemini-Generated-Image-nefdxmnefdxmnefd-removebg-preview.png" width="100" alt="HomeFinder AI"/></a>
+  <img width="12" />
+
 
 </div>
 
