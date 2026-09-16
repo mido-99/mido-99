@@ -4,7 +4,7 @@
   <img src="https://i.postimg.cc/jjjkyDYK/img-6ewkwzf-Jh-Tz-SMs-Mop3-QGS.jpg" width="500" align="right" />
 
 <p>
-  I'm <strong>Mohamed Hany</strong>, Python dev with passion for AI & data <em>the oil of the future</em>.<br>
+  I'm a Python dev with passion for AI & data <em>the oil of the future</em>.<br>
   I love how coding lets you command machines to achieve what you want effortlessly from your chair.<br>
   ❓ What do I do: I'm specialized in Web Scraping, Automation, Data Analysis, & AI integration, providing businesses with the data & insights they need to speed up their success.<br>
 </p>
