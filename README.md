@@ -3,19 +3,21 @@
 ###
   <img src="https://i.postimg.cc/jjjkyDYK/img-6ewkwzf-Jh-Tz-SMs-Mop3-QGS.jpg" width="500" align="right" />
 
-<p>
-  I'm a Python dev with passion for AI & data <em>the oil of the future</em>.<br>
-  I love how coding lets you command machines to achieve what you want effortlessly from your chair.<br>
-  ❓ What do I do: I'm specialized in Web Scraping, Automation, Data Analysis, & AI integration, providing businesses with the data & insights they need to speed up their success.<br>
+<p align="left">
+  I'm a Python developer with passion for AI & data<br>
+  I love how coding lets you command machines to achieve what you want effortlessly right from your chair.<br>
+  <strong>❓ What I do:</strong> I specialize in Web Scraping, Automation, Data Engineering, & AI Integration, providing businesses with the data and workflows they need to accelerate success.
 </p>
 
-###
+<h3 align="left">About Me</h3>
 
-<h3 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Coding since 2022<br>💻 Searching for jobs remotely<br>📚 I'm currently learning Data analysis, AI & Advanced LM integration.<br>🎯 Goals: Just to build a (simple) LLM feeding on all data on Earth.<br>🎲 Fun fact: Originally a doctor (medical graduate💉:) but now data is my passion 💖</p>
+<p align="left">
+  ✨ <strong>Coding since:</strong> 2022<br>
+  💻 <strong>Status:</strong> Open for remote Python, Backend, & Automation roles<br>
+  📚 <strong>Currently exploring:</strong> Advanced LLM Agents, MCP Servers, & Async Data Pipelines<br>
+  🎯 <strong>Goal:</strong> Building resilient systems that scrape, process, and distill web-scale data<br>
+  🎲 <strong>Fun fact:</strong> Originally trained as a physician (MBBCh graduate 💉), but data is my true passion 💖
+</p>
 
 ###
 
@@ -116,11 +118,6 @@
     <img src="https://raw.githubusercontent.com/mido-99/Apify-Instagram-Competitor-Analyzer/refs/heads/main/media/Logo.png" width="100" alt="Instagram Competitor AI Analyzer"/></a>
   <img width="12" />
 
-  <a href="https://mido-99-home-finder.hf.space/" >
-    <img src="https://i.ibb.co/CpH24bm1/Gemini-Generated-Image-nefdxmnefdxmnefd-removebg-preview.png" width="100" alt="HomeFinder AI"/></a>
-  <img width="12" />
-
-
 </div>
 
 ###
@@ -132,11 +129,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-hany-a6a734253/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="40" alt="linkedin logo"  
-      /></a>
-  <img width="5" />
-
-  <a href="https://discordapp.com/users/752326203959935007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="40" alt="discord logo"  
       /></a>
   <img width="5" />
 
